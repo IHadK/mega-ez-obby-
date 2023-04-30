@@ -8,7 +8,7 @@
           \_Welcome to LuaObfuscator.com   (Alpha 0.2.6) ~  Much Love, Ferib 
 
 ]]--
-
+--https://www.roblox.com/games/3587619225/Mega-Easy-Obby-825-Stages
 do
 	local v0 = string.char;
 	local v1 = string.byte;
